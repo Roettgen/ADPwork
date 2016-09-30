@@ -1,3 +1,0 @@
-Geht's noch
-git status
-mir reichts
